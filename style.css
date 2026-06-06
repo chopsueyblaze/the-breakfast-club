@@ -1,2 +1,27 @@
-/* CSS Document */
+*{
+	
+}
+body{
+	background-color: lightblue;
+}
 
+header{
+	text-align: center;
+}
+nav{
+	max-width: 600px;
+	margin: 0 auto;
+	background-color: whitesmoke
+}
+main{
+	max-width: 600px;
+	background-color: whitesmoke;
+	margin: 0 auto;
+}
+img{
+	max-width: 100%;
+
+}
+footer{
+	background-color: navy;
+}
