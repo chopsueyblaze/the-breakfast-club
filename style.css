@@ -1,5 +1,5 @@
 *{
-	
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 }
 body{
 	background-color: lightblue;
@@ -11,7 +11,12 @@ header{
 nav{
 	max-width: 600px;
 	margin: 0 auto;
-	background-color: whitesmoke
+	background-color: whitesmoke;
+	padding: 15px 0px
+}
+nav a{
+	text-decoration: none;
+	margin: 0 60px
 }
 main{
 	max-width: 600px;
