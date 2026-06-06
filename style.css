@@ -25,12 +25,19 @@ nav a{
 	text-decoration: none;
 	margin: 0 30px
 }
+nav :hover{
+	color: red;
+	font-weight: bold;
+}
 main{
 	max-width: 600px;
 	background-color: whitesmoke;
 	margin: 20px auto;
 	border-radius: 30px;
 	padding: 5px 15px;
+}
+.tables{
+	width: 100%;
 }
 img{
 	max-width: 100%;
